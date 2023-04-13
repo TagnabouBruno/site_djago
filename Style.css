@@ -1,0 +1,104 @@
+html{
+    overflow-y:auto;
+    overflow-x: hidden;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#A2{
+    margin-left: 50px;
+}
+#AA{
+    margin-left: 900px;
+}
+#A1{
+    display: flex;color:#000A47;
+}
+nav{
+    background-color: #000A47;
+    color:white;
+}
+#A3{
+    display: flex;
+    list-style-type: none;
+    height:50px;
+    margin-left: 200px;
+    padding-top:15px;
+}
+.A4:hover{
+    color: blue;
+    font-size: 10px;
+}
+.A4{
+    margin-left: 100px;
+}
+/*footer*/
+#footer{
+    display: flex;
+    margin-left: 50px;
+}
+footer{
+    background-color: #000A47;padding: 50px;color: white;
+}
+.foot{
+    margin-left: 75px;
+}
+#feet,.fee{text-align: center;font-size: 40px;}
+/*fin footer*/
+.section1{
+    display: flex;
+    background-color: #f5f5f5;
+}
+#moi{
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:grey;
+    text-align: justify;
+    width:800px;
+}
+#toi{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#gestion{
+    display: flex;
+}
+#gestion1{
+    margin-left:50px;
+}
+#gestion2{
+    width:500px;
+    background-color: grey;
+    text-align: justify;
+    margin-left:400px;
+    margin-bottom: 75px;
+}
+#sec{background-color: antiquewhite;}
+#gestion2:hover,#moi:hover{
+    color: white;
+}
+/*Nos services*/
+.B1{
+    display: flex;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    background-color: #000A47;
+    padding: 20px;
+    color: white;
+}
+.B2{
+    margin-left:50px ;
+}
+.B3{
+    margin-left: 375px;
+}
+.B4{
+    margin-left: 375px;
+}
+.bruno:hover{
+    width:200px;
+    height: 200px;
+}
+/*Nos services*/
